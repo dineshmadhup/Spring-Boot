@@ -7,7 +7,7 @@ Before you start using make sure you have development environment is ready other
 For this project, I am using Spring Tool Suite (STS) IDE. You can choose any of your choice of development environment. 
 
 
-## Steps o use the application:
+## Steps to use the application:
 
 1. First of all download the source code and open with STS IDE. Here we can see the source code files in package explorer.
 
