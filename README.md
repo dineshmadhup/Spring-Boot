@@ -8,7 +8,7 @@ Any E-commerce application has many products which is categorized or grouped.
 In this application, I have created a web service using Spring Boot technology so that we can access product based on category.
 Following URL will help to access  the categories as well as products
 
-http://localhost:8080/categories/
-http://localhost:8080/categories/categoryId/
-http://localhost:8080/categories/categoryId/products/
-http://localhost:8080/categories/categoryId/products/productId/
+http://localhost:8080/categories/ <br>
+http://localhost:8080/categories/categoryId/ <br>
+http://localhost:8080/categories/categoryId/products/ <br>
+http://localhost:8080/categories/categoryId/products/productId/ <br>
