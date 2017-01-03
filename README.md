@@ -6,9 +6,8 @@ Creating RESTful Web Service using Spring Boot: An E-Commerce Application
 Before you start using make sure you have development environment is ready otherwise refer the following link [Click Here](https://github.com/dineshmadhup/Spring-Boot/wiki/Module-1:-Set-Up-a-Development-Environment). <br>
 For this project, I am using Spring Tool Suite (STS) IDE. You can choose any of your choice of development environment. 
 
-### Steps to use the application
 
-## Steps:
+## Steps o use the application:
 
 1. First of all download the source code and open with STS IDE. Here we can see the source code files in package explorer.
 
